@@ -1,3 +1,1 @@
-# Flutter Speech to Text App Tutorial | Voice Recognition
-
-[YouTube Tutorial](https://youtu.be/wDWoD1AaLu8)
+# Speech to sign real time translation app
